@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
-				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouch_Walk.uasset",
-				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
-				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
 				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Walk.uasset",
 				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
 				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
@@ -16,7 +12,18 @@
 				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_BS_1D.uasset",
 				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/ABP_RpgCharacter.uasset",
 				"C:/git/Unreal/ue-practice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouched/Crouched_BS_1D.uasset"
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouched/Crouched_BS_1D.uasset",
+				"C:/git/Unreal/ue-practice/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/git/Unreal/ue-practice/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Lean/Lean_BS_1D.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Crouch_Walk.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/git/Unreal/ue-practice/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
 			]
 		}
 	]
